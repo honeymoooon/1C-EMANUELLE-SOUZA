@@ -1,29 +1,24 @@
 .lista {
-    color: red;
-}
-
-#imagem {
-    text-align: center;
-}
-
-#link {
-    text-align: center;
-}
-
-p {
-    color: red;
     font-size: 30;
-    text-align: left;
+    color: red;
 }
 
-h1 {
-    color: blue;
-    font-size: 50;
+.imagens {
     text-align: center;
+    background: black;
 }
-
-h2 {
-    color: green;
-    font-size: 40;
-    text-align: right;
+ 
+#destaque { 
+   border: 5px;
+   border-style: dashed;
+   border-color: blue;
+   border-top-left-radius: 500px;
+   border-top-right-radius: 500px;
+   border-botton-left-radius: 500px;
+   border-botton-right-radius: 500px;
+   padding-top: 30px;
+   padding-botton: 30px;
+   margin-left: 500px;
+   margin-right: 500px;
+   background:  yellow; 
 }
